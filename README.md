@@ -1,4 +1,4 @@
 # example1
 My first repository.
 <br>
-Author- Angad shukla
+Author- Angad Shukla
